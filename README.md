@@ -1,6 +1,7 @@
 # 2141018101
 Wipro Assignments and Tasks
 # Folder Structure
+```plaintext
 2141018101/
 |   |-- CA-N/
 |   |   |-- ASSIGNMENTS/
@@ -132,6 +133,7 @@ Wipro Assignments and Tasks
 |   |   |   |-- 2141018101_SDLC_ASSIGNMENT-2.pdf
 |   |   |-- TASKS/
 |   |   |   |-- 2141018101_SDLC_TASK-1.pdf
-## Author
-Name: Shaan Rout
-Registration No: 2141018101
+```
+## Author  
+Name: Shaan Rout  
+Registration No: 2141018101  
